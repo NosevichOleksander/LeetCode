@@ -150,6 +150,3 @@ result = result * 10 + digit
 ```
 
 The input is traversed once, while leading spaces, an optional sign, consecutive digits, and integer overflow are handled separately.
-
-```
-```
