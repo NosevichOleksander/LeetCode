@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/hard/0004_median_of_two_sorted_arrays" />
+      <excludeFolder url="file://$MODULE_DIR$/hard/0010_regular_expression_matching" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.13 (Leet)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
