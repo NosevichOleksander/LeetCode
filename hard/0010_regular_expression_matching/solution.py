@@ -36,7 +36,10 @@ class Solution:
             else:
                 return False
         return True
-
+"""
+Unfinished, too silly :c
+gotta return later
+"""
 S = Solution()
 print(S.isMatch('aa', 'a'))
 print(S.isMatch('aa', 'a*'))

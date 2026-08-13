@@ -21,3 +21,6 @@ class Solution:
                     flip = False
             if p1 + p2 > total_len//2-1:
                 return nums1[p1-1] if flip==False else nums2[p2-1]
+"""
+Unfinished, too silly :c
+"""
